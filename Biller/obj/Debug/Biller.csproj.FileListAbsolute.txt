@@ -1,0 +1,37 @@
+D:\College\Programs\Project_C#\Biller\Biller\bin\Debug\Biller.exe
+D:\College\Programs\Project_C#\Biller\Biller\bin\Debug\Biller.pdb
+D:\College\Programs\Project_C#\Biller\Biller\obj\Debug\Biller.csprojResolveAssemblyReference.cache
+D:\College\Programs\Project_C#\Biller\Biller\obj\Debug\Biller.frmAdminDashboard.resources
+D:\College\Programs\Project_C#\Biller\Biller\obj\Debug\Biller.Properties.Resources.resources
+D:\College\Programs\Project_C#\Biller\Biller\obj\Debug\Biller.csproj.GenerateResource.Cache
+D:\College\Programs\Project_C#\Biller\Biller\obj\Debug\Biller.exe
+D:\College\Programs\Project_C#\Biller\Biller\obj\Debug\Biller.pdb
+D:\College\Programs\Project_C#\Biller\Biller\obj\Debug\Biller.frmUserDashboard.resources
+D:\College\Programs\Project_C#\Biller\Biller\obj\Debug\Biller.UI.frmUsers.resources
+D:\College\Programs\Project_C#\Biller\Biller\bin\Debug\Biller.exe.config
+D:\College\Programs\Project_C#\Biller\Biller\obj\Debug\Biller.UI.frmLogin.resources
+D:\College\Programs\Project_C#\Biller\Biller\obj\Debug\Biller.UI.frmCategories.resources
+D:\College\Programs\Project_C#\Biller\Biller\obj\Debug\Biller.UI.frmProducts.resources
+D:\College\Programs\Project_C#\Biller\Biller\obj\Debug\Biller.UI.frmDealCust.resources
+D:\College\Programs\Project_C#\Biller\Biller\obj\Debug\Biller.UI.frmPurchaseAndSales.resources
+D:\College\Programs\Project_C#\Biller\Biller\obj\Debug\Biller.UI.frmTransactions.resources
+D:\College\Programs\Project_C#\Biller\Biller\obj\Debug\Biller.UI.frmInventory.resources
+E:\College\Projects\Biller (06 10 2021) (38)\Biller\Biller\bin\Debug\Biller.exe.config
+E:\College\Projects\Biller (06 10 2021) (38)\Biller\Biller\bin\Debug\Biller.exe
+E:\College\Projects\Biller (06 10 2021) (38)\Biller\Biller\bin\Debug\Biller.pdb
+E:\College\Projects\Biller (06 10 2021) (38)\Biller\Biller\obj\Debug\Biller.csproj.AssemblyReference.cache
+E:\College\Projects\Biller (06 10 2021) (38)\Biller\Biller\obj\Debug\Biller.frmAdminDashboard.resources
+E:\College\Projects\Biller (06 10 2021) (38)\Biller\Biller\obj\Debug\Biller.UI.frmCategories.resources
+E:\College\Projects\Biller (06 10 2021) (38)\Biller\Biller\obj\Debug\Biller.UI.frmDealCust.resources
+E:\College\Projects\Biller (06 10 2021) (38)\Biller\Biller\obj\Debug\Biller.UI.frmInventory.resources
+E:\College\Projects\Biller (06 10 2021) (38)\Biller\Biller\obj\Debug\Biller.UI.frmLogin.resources
+E:\College\Projects\Biller (06 10 2021) (38)\Biller\Biller\obj\Debug\Biller.UI.frmProducts.resources
+E:\College\Projects\Biller (06 10 2021) (38)\Biller\Biller\obj\Debug\Biller.UI.frmPurchaseAndSales.resources
+E:\College\Projects\Biller (06 10 2021) (38)\Biller\Biller\obj\Debug\Biller.UI.frmTransactions.resources
+E:\College\Projects\Biller (06 10 2021) (38)\Biller\Biller\obj\Debug\Biller.frmUserDashboard.resources
+E:\College\Projects\Biller (06 10 2021) (38)\Biller\Biller\obj\Debug\Biller.Properties.Resources.resources
+E:\College\Projects\Biller (06 10 2021) (38)\Biller\Biller\obj\Debug\Biller.UI.frmUsers.resources
+E:\College\Projects\Biller (06 10 2021) (38)\Biller\Biller\obj\Debug\Biller.csproj.GenerateResource.cache
+E:\College\Projects\Biller (06 10 2021) (38)\Biller\Biller\obj\Debug\Biller.csproj.CoreCompileInputs.cache
+E:\College\Projects\Biller (06 10 2021) (38)\Biller\Biller\obj\Debug\Biller.exe
+E:\College\Projects\Biller (06 10 2021) (38)\Biller\Biller\obj\Debug\Biller.pdb
